@@ -1,6 +1,6 @@
 ```
-编写人：李鼎铭
-名称：生成PPT与智能切割文———代码说明
+编写人：lidingm
+名称：生成PPT与智能切割文稿———代码说明
 ```
 
 # Generate_PPT_divide_speech
